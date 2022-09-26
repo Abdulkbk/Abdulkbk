@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdulkbk
 - 👀 I’m interested in Software and Data Engineering
 - 🌱 I’m currently learning more about Data Engineering and Golang
-- 💞️ I’m looking to collaborate on Building the next Big Softwares
+- 💞️ I’m looking to collaborate and build the next big software
 - 📫 How to reach me: [Github](https://github.com/Abdulkbk/Abdulkbk) [LinkedIn](https://www.linkedin.com/in/abdulkbk/)
 
 ### Technical Details
