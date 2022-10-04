@@ -10,7 +10,7 @@
 |*Languages* | Javascript, Python, SQL, Go |
 |*Tools*| React.js, Node.js, Django/DRF, Terraform, Airflow, | 
 |*Machine Learning*| Tensorflow, Keras, Numpy, Pandas |
-|*Sofware Devlopment* | Reactjs, Expressjs, Tailwindcss |
+|*Sofware Development* | Reactjs, Expressjs, Tailwindcss |
 |*Databases*| Mongodb, MySQL, Postgresql, Firebase |
 |*Cloud Technologies*| AWS, GCP, Huawei Cloud, Huawei MRS, Apache Spark |
 <!---
