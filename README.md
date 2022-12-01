@@ -7,8 +7,8 @@
 ### Technical Details
 | Technology | Tools |
 | -------------| ------------- |
-|*Languages* | Javascript, Python, SQL, Go |
-|*Tools*| React.js, Node.js, Django/DRF, Terraform, Airflow, | 
+|*Languages* | Javascript, TypeScript, Python, Dart, SQL, Go |
+|*Tools*| React.js, Next.js, Node.js, Nest.js, Django/DRF,  Terraform | 
 |*Machine Learning*| Tensorflow, Keras, Numpy, Pandas |
 |*Sofware Devlopment* | Reactjs, Expressjs, Tailwindcss |
 |*Databases*| Mongodb, MySQL, Postgresql, Firebase |
