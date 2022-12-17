@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulkbk
-- 👀 I’m interested in Software and Data Engineering
-- 🌱 I’m currently learning more about Data Engineering and Golang
+- 👀 I’m interested in Software Engineer and Machine Learning Researcher
+- 🌱 I’m currently learning more Software techniques and methodologies
 - 💞️ I’m looking to collaborate and build the next big software
 - 📫 How to reach me: [Github](https://github.com/Abdulkbk/Abdulkbk) [LinkedIn](https://www.linkedin.com/in/abdulkbk/)
 
@@ -8,11 +8,11 @@
 | Technology | Tools |
 | -------------| ------------- |
 |*Languages* | Javascript, TypeScript, Python, Dart, SQL, Go |
-|*Tools*| React.js, Next.js, Node.js, Nest.js, Django/DRF,  Terraform | 
+|*Frontend*| React.js, Next.js, TailwindCSS, Material UI, Chakra UI|
+|*Backend*| Node.js, Express.js, Nest.js, FastApi, Django, Django Rest Framework |
+|*Tools*| AWS, GCP, Huawei Cloud, Terraform, Docker |
+|*Databases*| Mongodb, MySQL, Postgresql, Firebase, Redis |
 |*Machine Learning*| Tensorflow, Keras, Numpy, Pandas |
-|*Sofware Devlopment* | Reactjs, Expressjs, Tailwindcss |
-|*Databases*| Mongodb, MySQL, Postgresql, Firebase |
-|*Cloud Technologies*| AWS, GCP, Huawei Cloud, Huawei MRS, Apache Spark |
 <!---
 Abdulkbk/Abdulkbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
