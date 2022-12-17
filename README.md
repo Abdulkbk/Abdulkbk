@@ -1,24 +1,15 @@
 # Hi, I'm Abdullahi Yunus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<table>
-  <tr>
-    <td valign="center">
-      🎓 I have extensive experience in **software engineering**.
-      <tr>
-      🌱 I am currently learning Dart and have a strong interest in Machine Learning.
-      </tr>
-      <tr>
-      🎯 My Goal is to Contribute to as many **open source project** as possible.
-      </tr>
-      <tr>
-      ✨ I am actively seeking new **opportunities** and am open to exploring a variety of options.
-      </tr>
-      <tr>
-      📫 You can reach me on: [Github](https://github.com/Abdulkbk/Abdulkbk) [LinkedIn](https://www.linkedin.com/in/abdulkbk/)
-      </tr>
-    
-  </tr>
-  </table>
+
+🎓 I have extensive experience in **software engineering**.
+
+🌱 I am currently learning Dart and have a strong interest in Machine Learning.
+
+🎯 My Goal is to Contribute to as many **open source project** as possible.
+
+✨ I am actively seeking new **opportunities** and am open to exploring a variety of options.
+
+📫 You can reach me on: [Github](https://github.com/Abdulkbk/Abdulkbk) [LinkedIn](https://www.linkedin.com/in/abdulkbk/)
 
 ### Technical Details
 | Technology | Tools |
@@ -31,7 +22,6 @@
 |*Machine Learning*| Tensorflow, Keras, Numpy, Pandas |
 
 
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 
 ## Stats📈
 <p align="center">
