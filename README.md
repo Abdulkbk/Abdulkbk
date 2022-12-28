@@ -3,7 +3,7 @@
 
 🎓 I have extensive experience in **software engineering**.
 
-🌱 I am currently learning more on Test-Driven Development, Dart, Workflows, and have a strong interest in Machine Learning.
+🌱 I am currently learning more on Test-Driven Development, Workflows, and have a strong interest in Machine Learning.
 
 🎯 My Goal is to Contribute to as many **open source project** as possible.
 
