@@ -3,7 +3,7 @@
 
 🎓 I have extensive experience in **software engineering**.
 
-🌱 I am currently learning more on Test-Driven Development, Kubernetes, Web3 & Blockchain, and Flutter.
+🌱 I am currently learning more on Test-Driven Development, Kubernetes, Web3 & Blockchain.
 
 🎯 My Goal is to Contribute to as many **open source project** as possible.
 
