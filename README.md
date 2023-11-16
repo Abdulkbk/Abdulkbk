@@ -3,7 +3,7 @@
 
 🎓 I am a professional **Software Engineer**, **Bitcoin developer**.
 
-🌱 I am currently building.
+🌱 I am currently building Full stack applications.
 
 🎯 My Goal is to Contribute to **open source project**.
 
