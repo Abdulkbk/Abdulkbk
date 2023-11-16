@@ -1,7 +1,7 @@
 # Hi, I'm Abdullahi Yunus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-🎓 I am a professional **Software Engineer**.
+🎓 I am a professional **Software Engineer**, **Bitcoin developer**.
 
 🌱 I am currently building.
 
