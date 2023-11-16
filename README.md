@@ -1,24 +1,24 @@
 # Hi, I'm Abdullahi Yunus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-🎓 I have extensive experience in **software engineering**.
+🎓 I am a professional **Software Engineer**.
 
-🌱 I am currently learning more on Test-Driven Development, Kubernetes, Web3 & Blockchain, and More.
+🌱 I am currently building.
 
-🎯 My Goal is to Contribute to as many **open source project** as possible.
+🎯 My Goal is to Contribute to **open source project**.
 
-✨ I am actively seeking new **opportunities** and am open to exploring a variety of options.
+✨ I am actively seeking new **opportunities** and am open to exploring various options.
 
 📫 You can reach me on: [Github](https://github.com/Abdulkbk/Abdulkbk) [LinkedIn](https://www.linkedin.com/in/abdulkbk/)
 
 ### Technical Details
 | Technology | Tools |
 | -------------| ------------- |
-|*Languages* | Javascript, TypeScript, Python, Dart, SQL, Go |
-|*Frontend*| React.js, Next.js, TailwindCSS, Material UI, Chakra UI|
-|*Backend*| Node.js, Express.js, Nest.js, FastApi, Django, Django Rest Framework |
-|*Tools*| AWS, GCP, Huawei Cloud, Terraform, Docker |
-|*Databases*| Mongodb, MySQL, Postgresql, Firebase, Redis |
+|*Languages* | Javascript, TypeScript, Python, Rust |
+|*Frontend*| React.js, Next.js, TailwindCSS|
+|*Backend*| Node.js, Express.js, Nest.js, FastApi, Django|
+|*Tools*| AWS, GCP, Docker |
+|*Databases*| MongoDB, MySQL, Postgresql, Firebase, Redis |
 |*Machine Learning*| Tensorflow, Keras, Numpy, Pandas |
 
 
