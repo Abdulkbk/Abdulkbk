@@ -1,20 +1,20 @@
 # Hi, I'm Abdullahi Yunus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-🎓 I am a professional **Software Engineer**, **Bitcoin developer**.
+🎓 I am a professional **Software Engineer**, **Bitcoin and lightning developer**, and ML enthusiast.
 
-🌱 I am currently building Full stack applications.
+🌱 I am currently building Full-stack applications.
 
-🎯 My Goal is to Contribute to **open source project**.
+🎯 My Goal is to Contribute to many **open-source** projects.
 
-✨ I am actively seeking new **opportunities** and am open to exploring various options.
+✨ I am actively seeking new **opportunities** and I'm open to exploring various options.
 
 📫 You can reach me on: [Github](https://github.com/Abdulkbk/Abdulkbk) [LinkedIn](https://www.linkedin.com/in/abdulkbk/)
 
 ### Technical Details
 | Technology | Tools |
 | -------------| ------------- |
-|*Languages* | Javascript, TypeScript, Python, Rust |
+|*Languages* | Javascript, TypeScript, Python, Go |
 |*Frontend*| React.js, Next.js, TailwindCSS|
 |*Backend*| Node.js, Express.js, Nest.js, FastApi, Django|
 |*Tools*| AWS, GCP, Docker |
