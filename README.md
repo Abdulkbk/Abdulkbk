@@ -1,27 +1,11 @@
 # Hi, I'm Abdullahi Yunus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-🎓 I am a professional **Software Engineer**, **Bitcoin and lightning developer**, and **ML enthusiast**.
+🎓 I am a **Software Engineer** contributing to **Bitcoin & lightning** projects.
 
-🌱 I am currently building Full-stack applications.
-
-🎯 My Goal is to Contribute to **Open Source** projects.
-
-✨ I am actively seeking new **opportunities** and I'm open to exploring various options.
+✨ I am actively seeking new challenging **opportunities**.
 
 📫 You can reach me on: [Github](https://github.com/Abdulkbk/Abdulkbk) [LinkedIn](https://www.linkedin.com/in/abdulkbk/)
-
-### Technical Details
-| Technology | Tools |
-| -------------| ------------- |
-|*Languages* | Javascript, TypeScript, Python, Go |
-|*Frontend*| React.js, Next.js, TailwindCSS|
-|*Backend*| Node.js, Express.js, Nest.js, FastApi, Django|
-|*Tools*| AWS, GCP, Docker | Bitcoin | Lightning|
-|*Databases*| MongoDB, MySQL, Postgresql, Firebase, Redis |
-|*Machine Learning*| Tensorflow, Keras, Numpy, Pandas |
-
-
 
 ## Stats📈
 <p align="center">
